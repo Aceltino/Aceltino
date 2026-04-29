@@ -1,18 +1,10 @@
-# Olá, eu sou o Aceltino Quianvo 👋
+# Hello_W, Aceltino Quianvo 👋
 ### Senior Backend Engineer | Node.js (NestJS) & Distributed Systems
 
 Engenheiro Backend com mais de **4 anos de experiência** construindo sistemas de produção para HealthTech e clientes corporativos.
-*Backend engineer with **4+ years** building production systems for HealthTech and enterprise clients.*
+🇺🇸*Backend engineer with **4+ years** building production systems for HealthTech and enterprise clients.*
 
 📍 **Fortaleza, CE — Brazil (Remote-ready)** 📧 **cesaltinoquianvo@gmail.com** | 🌐 **[aceltino-dev.vercel.app](https://aceltino-dev.vercel.app)**
-
----
-
-### 🚀 Sobre Mim | About Me
-- 🇧🇷 Focado no que se mantém firme sob carga: limites de domínio claros, APIs previsíveis e serviços observáveis.
-- 🇺🇸 *Focusing on what holds up under load: clear domain boundaries, predictable APIs, and observable services.*
-- 🇧🇷 Desenho arquiteturas limpas (Clean Arch) do zero e mentoro devs através de code reviews técnicos.
-- 🇺🇸 *Designing clean architectures from scratch and mentoring devs through deep technical code reviews.*
 
 ---
 
@@ -25,6 +17,14 @@ Engenheiro Backend com mais de **4 anos de experiência** construindo sistemas d
 | **Databases & Cache** | PostgreSQL, MySQL, MongoDB, Redis |
 | **DevOps & Cloud** | AWS (ECS), Docker, Terraform, GitHub Actions, CI/CD, Nx Monorepos |
 | **Observability & Tests** | New Relic, Winston, Pino, Jest, Vitest, Supertest, TDD |
+
+---
+
+### 🚀 Sobre Mim | About Me
+- 🇧🇷 Focado no que se mantém firme sob carga: limites de domínio claros, APIs previsíveis e serviços observáveis.
+- 🇺🇸 *Focusing on what holds up under load: clear domain boundaries, predictable APIs, and observable services.*
+- 🇧🇷 Desenho arquiteturas limpas (Clean Arch) do zero e mentoro devs através de code reviews técnicos.
+- 🇺🇸 *Designing clean architectures from scratch and mentoring devs through deep technical code reviews.*
 
 ---
 
