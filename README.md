@@ -62,14 +62,6 @@ Engenheiro Backend com mais de **4 anos de experiência** construindo sistemas d
 
 ---
 
-### 📊 Stats & Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aceltino&show_icons=true&theme=tokyonight&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aceltino&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ### 📫 Conecte-se comigo | Let's Connect
 - **LinkedIn:** [linkedin.com/in/aceltino](https://www.linkedin.com/in/aceltino/)
 - **Portfolio:** [aceltino-dev.vercel.app](https://aceltino-dev.vercel.app)
